@@ -1,10 +1,16 @@
 
+<div align="center">
+  
+![Fondo estrellado](https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg)
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Diego Amorin</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
 ---
 
-| 🌱 I’m currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="200"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="200"/> |
+| 🌱 I'm currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="200"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="200"/> |
 | --- | --- |
 
 ---
