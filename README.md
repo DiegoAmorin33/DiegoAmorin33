@@ -1,10 +1,4 @@
 
-<div align="center">
-  
-![Fondo estrellado](https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg)
-
-</div>
-
 <h1 align="center">Hi 👋, I'm Diego Amorin</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
