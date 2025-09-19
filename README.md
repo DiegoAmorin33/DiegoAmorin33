@@ -23,6 +23,11 @@
 <a href="https://instagram.com/diegodamorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegodamorin" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="120"/>
+  <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="120"/>
+</p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
