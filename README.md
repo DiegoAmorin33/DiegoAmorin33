@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="left">🎮 Futuro:</h3>
+<h3 align="left">🎮 Future:</h3>
 <p align="left">
-Me encantaría en un futuro crear o participar en la creación de <b>videojuegos</b>, ya sea programando mecánicas o aportando en el diseño visual.
+In the future, I would love to create or participate in the creation of <b>video games</b>, whether by programming mechanics or contributing to the visual design.
 </p>
