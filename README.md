@@ -7,13 +7,20 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    
+- 🌱 I’m currently learning **Data Science and Machine Learning**  
+- 💬 Ask me about **React, Python**  
+- 📫 How to reach me **amorinoficial33@gmail.com**  
+- ⚡ Fun fact: **Hago cosplay por las noches**  
 
-- 💬 Ask me about **React, Python**
-
-- 📫 How to reach me **amorinoficial33@gmail.com**
-
-- ⚡ Fun fact: **Hago cosplay por las noches**
+  </div>
+  <div>
+    <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="180"/>
+    <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="180"/>
+  </div>
+</div>
 
 ---
 
@@ -21,11 +28,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/diego-amorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-amorin" height="30" width="40" /></a>
 <a href="https://instagram.com/diegodamorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegodamorin" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="120"/>
-  <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="120"/>
 </p>
 
 ---
