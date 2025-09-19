@@ -1,5 +1,3 @@
-<!-- Banner superior -->
-<img src="https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg" alt="Dark Sky" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Diego Amorin</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
@@ -45,5 +43,3 @@ In the future, I would love to create or participate in the creation of <b>video
 
 ---
 
-<!-- Banner inferior -->
-<img src="https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg" alt="Dark Sky" width="100%"/>
