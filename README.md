@@ -3,12 +3,6 @@
 
 ---
 
-| 🌱 I’m currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="180"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="180"/> |
-| --- | --- |
-
-
----
-
 | 🌱 I’m currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="250"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="250"/> |
 | --- | --- |
 
