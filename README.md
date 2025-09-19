@@ -1,11 +1,21 @@
+<!-- Banner superior -->
+<img src="https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg" alt="Dark Sky" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Diego Amorin</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
 ---
 
-| 🌱 I’m currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="250"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="250"/> |
+| 🌱 I’m currently learning **Data Science and Machine Learning**<br>💬 Ask me about **React, Python**<br>📫 How to reach me **amorinoficial33@gmail.com**<br>⚡ Fun fact: **Hago cosplay por las noches** | <img src="./assets/Octopath_Traveler_II_Agnea_Pixel.gif" alt="Agnea Pixel" width="200"/> <img src="./assets/Octopath_Traveler_II_Castti_Pixel.gif" alt="Castti Pixel" width="200"/> |
 | --- | --- |
 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diego-amorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-amorin" height="30" width="40" /></a>
+<a href="https://instagram.com/diegodamorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegodamorin" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -32,3 +42,8 @@
 <p align="left">
 In the future, I would love to create or participate in the creation of <b>video games</b>, whether by programming mechanics or contributing to the visual design.
 </p>
+
+---
+
+<!-- Banner inferior -->
+<img src="https://images.hdqwalls.com/wallpapers/dark-starry-sky-stars-4k-9m.jpg" alt="Dark Sky" width="100%"/>
